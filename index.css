@@ -1,0 +1,49 @@
+body {
+    background-color: white;
+
+}
+.navegação {
+    display: flex;
+    justify-content: space-between;
+}
+h1 {
+    background-color: antiquewhite;
+}
+h2 {
+    background-color: antiquewhite;
+    text-align: center;
+}
+h3 {
+    text-align: center;
+}
+h4 {
+    color: rgb(255, 217, 167);
+}
+img {
+    width: 200px;
+    height: 300px;
+    border-radius: 35%;
+    border: 5px solid antiquewhite;
+    margin: 16px;
+}
+.dados {
+    text-align: center;
+}
+p {
+   font-weight: bold; 
+   text-align: center;
+}
+li {
+    font-size: 15px;
+    font-weight: bold;
+}
+footer {
+    background-color: antiquewhite;
+}
+a {
+    color: black;
+}
+.contatos {
+    display: flex;
+    justify-content: space-between;
+}
